@@ -5,14 +5,13 @@
    <img src="./images/readmi.png">
 <h1>
 
-# Status concluído.
 
+# Visão Geral:
+Projeto desenvolvido na faculdade, do curso de Análise e desenvolvimento de Sistemas, orientado pelo professor Anderson.  
 
-Visão Geral:
-Projeto desenvolvido na faculdade, orientado pelo professor Anderson.  
-
-# Tecnolgias Utilizadas:
- .Visual Studio Code; <br>
+# Tecnologias Utilizadas:
+ .Visual Studio Code; <br> 
  .Front-end: HTML, CSS e JS. <br>
- . Bootstrap
+ .Bootstrap. 
+ 
 
